@@ -129,6 +129,10 @@ main {
   gap: 1.5rem;
 }
 
+.person {
+  font-weight: bold;
+}
+
 @media (min-width: 768px) {
   body {
     background: url("images/bg-pattern-bottom-desktop.svg") bottom right
